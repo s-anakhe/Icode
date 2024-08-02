@@ -1,0 +1,10 @@
+h1 {background-color: #F7B5CA;
+    text-align: center;
+    color: black;}
+h2 {text-align: center;}
+#rose{
+    display: flex;
+    gap: 20px;
+    margin: 20px;}
+p{font-family: 'Lucida Sans';
+    font-size: 20px;}

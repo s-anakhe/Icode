@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+function myFunction(){
+    document.getElementById("demo").innerHTML = "Hello";}
+    
+function myFunction2(){
+    document.getElementById("butn").innerHTML = "How are you?!";}
+</script>
+</head>
+<body>
+
+<h2>Anagha</h2>
+
+<p id="demo">A Paragraph</p>
+<button type="button" onclick="myFunction()">Press the button</button>
+
+<p id="butn">A Paragraph</p>
+<button type="button" onclick="myFunction2()">Press the button</button>
+
+<button class="button button1" onclick="navigateTo('index.html')">Our Team File</button>
+<button class="button button2" onclick="navigateTo('button.html')">Button File</button>
+
+<script>
+    function navigateTo(page){
+        window.location.href =page;}
+</script>
+</body>
+</html>

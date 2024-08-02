@@ -1,0 +1,10 @@
+
+body {
+    text-align: center;
+    background-size: cover;
+    background-image: url(not.jpg);    
+    }
+h1  {color: blue;
+    font-weight: 900;
+    font-size: 700;}
+p   {color: rgb(44, 212, 179);}

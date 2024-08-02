@@ -1,0 +1,65 @@
+h1{
+    text-align: center;
+    color: black;
+    background-color: #E493B3;}
+#Bio{
+    background-color:#E493B3;}
+img{
+    margin-left: 650px; text-align: center;}
+h2{
+    text-align: center;
+    color:black;}
+#inst{
+    background-color: #B784B7;
+    color:black;}
+h3{
+    text-align: center;
+    color: black;}
+h4{
+    text-align: center;
+    color: black;}
+#Edu{
+    background-color:#E493B3;}
+
+#Exp{
+    background-color:#E493B3;
+}
+#int{
+    background-color:#B784B7;
+    color: black;}
+
+#tea{
+    background-color:#B784B2;
+    color:black;
+}
+
+.button{
+    border: none;
+    color: beige;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;}
+    
+    .button{
+        background-color: beige;
+        color: black;
+        border: 2px solid #B784B7;}
+    
+    .button1:hover{
+        background-color: #B784B7;
+        color: beige;}
+    
+    .button2{
+        background-color: beige;
+        color: black;
+        border: 2px solid #80BCBD;}
+    
+    .button2:hover{
+        background-color: #80BCBD;
+        color: beige;
+    }

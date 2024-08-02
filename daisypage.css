@@ -1,0 +1,13 @@
+h1{color: black;
+    background-color: white;
+    text-align: center;}
+
+body {background-color: rgb(238, 238, 164)}
+
+p{color: black;
+    font-size: large;
+    text-align: center;}
+
+button{
+    font-size: 200%;
+    margin-left: 650px;}
